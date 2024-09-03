@@ -25,37 +25,37 @@ MACRO tt_um_noritsuna_Vctrl_LC_oscillator
         RECT 125.430 224.760 125.730 225.760 ;
     END
   END rst_n
-  PIN vout_p
+  PIN ua[0]
     ANTENNAGATEAREA 2000.000000 ;
     ANTENNADIFFAREA 1094.500000 ;
     PORT
       LAYER met4 ;
         RECT 136.170 0.000 137.070 1.000 ;
     END
-  END vout_p
-  PIN vout_n
+  END ua[0]
+  PIN ua[1]
     ANTENNAGATEAREA 2000.000000 ;
     ANTENNADIFFAREA 1094.500000 ;
     PORT
       LAYER met4 ;
         RECT 116.850 0.000 117.750 1.000 ;
     END
-  END vout_n
-  PIN vctrl
+  END ua[1]
+  PIN ua[2]
     ANTENNADIFFAREA 35.171600 ;
     PORT
       LAYER met4 ;
         RECT 97.530 0.000 98.430 1.000 ;
     END
-  END vctrl
-  PIN ibias
+  END ua[2]
+  PIN ua[3]
     ANTENNAGATEAREA 50.000000 ;
     ANTENNADIFFAREA 12.500000 ;
     PORT
       LAYER met4 ;
         RECT 78.210 0.000 79.110 1.000 ;
     END
-  END ibias
+  END ua[3]
   PIN ua[4]
     PORT
       LAYER met4 ;
