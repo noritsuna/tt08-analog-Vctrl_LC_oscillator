@@ -360,12 +360,6 @@ MACRO tt_um_noritsuna_Vctrl_LC_oscillator
         RECT 59.190 224.760 59.490 225.760 ;
     END
   END uo_out[7]
-  PIN VDPWR
-    PORT
-      LAYER met4 ;
-        RECT 1.000 5.000 3.000 220.760 ;
-    END
-  END VDPWR
   PIN VGND
     USE GROUND ;
     PORT
@@ -4050,7 +4044,6 @@ MACRO tt_um_noritsuna_Vctrl_LC_oscillator
         RECT 125.130 223.860 126.030 224.760 ;
         RECT 127.870 223.860 128.770 224.760 ;
         RECT 130.630 223.860 131.530 224.760 ;
-        RECT 1.000 5.000 3.000 220.760 ;
         RECT 4.000 5.000 6.000 220.760 ;
         RECT 7.000 173.370 9.000 220.760 ;
         RECT 14.000 219.000 114.000 221.000 ;
