@@ -1,20 +1,23 @@
-<!---
+# Voltage Controlled LC-Oscillator
+This project is "Voltage Controlled LC-Oscillator of 2GHz for Skywater130nm".
 
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
 
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
--->
+## Circuit
+![circuit](../images/circuit.png)
 
-## How it works
 
-Explain how your project works
+## Test Bench
+![test bench](../images/circuit_tb.png)
 
-## How to test
 
-Explain how to use your project
+### Result
+- 388pSec = 2.6GHz 
+![oscillator wave](../images/circuit_wave.png)
 
-## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+## Layout
+![laytout](../images/laytout.png)
+
+
+## Tapeout
+This project made by [Tiny Tapeout](https://tinytapeout.com/).
