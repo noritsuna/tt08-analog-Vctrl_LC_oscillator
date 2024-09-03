@@ -4,21 +4,32 @@ This project is "Voltage Controlled LC-Oscillator of 2GHz for Skywater130nm".
 
 
 ## Circuit
-![circuit](images/circuit.png)
+![circuit](docs/images/circuit.png)
 
 
 ## Test Bench
-![test bench](images/circuit_tb.png)
+![test bench](docs/images/circuit_tb.png)
 
 
 ### Result
 - 388pSec = 2.6GHz 
-![oscillator wave](images/circuit_wave.png)
+![oscillator wave](docs/images/circuit_wave.png)
 
 
 ## Layout
-![laytout](images/laytout.png)
+![laytout](docs/images/laytout.png)
 
 
 ## Tapeout
 This project made by [Tiny Tapeout](https://tinytapeout.com/).
+
+### Price
+- Analog Space: 1x2 = $100
+- Analog Pin: 4pin = $40 * 4 = $160
+- PCB board(Debug Board) = $100
+- Shipping Fee = $10
+  - Total = $370
+
+
+![price](docs/images/price.png)
+
