@@ -33,3 +33,7 @@ This project made by [Tiny Tapeout](https://tinytapeout.com/).
 
 ![price](docs/images/price.png)
 
+
+### Submit Result
+![submit](docs/images/submit.png)
+
