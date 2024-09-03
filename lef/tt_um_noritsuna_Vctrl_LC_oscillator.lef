@@ -361,12 +361,15 @@ MACRO tt_um_noritsuna_Vctrl_LC_oscillator
     END
   END uo_out[7]
   PIN VDPWR
+    DIRECTION INOUT ;
+    USE POWER ;
     PORT
       LAYER met4 ;
         RECT 1.000 5.000 3.000 220.760 ;
     END
   END VDPWR
   PIN VGND
+    DIRECTION INOUT ;
     USE GROUND ;
     PORT
       LAYER met4 ;
@@ -374,6 +377,8 @@ MACRO tt_um_noritsuna_Vctrl_LC_oscillator
     END
   END VGND
   PIN VAPWR
+    DIRECTION INOUT ;
+    USE POWER ;
     ANTENNAGATEAREA 2000.000000 ;
     ANTENNADIFFAREA 1094.500000 ;
     PORT
