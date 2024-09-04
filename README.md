@@ -20,8 +20,14 @@ This project is "Voltage Controlled LC-Oscillator of 2GHz for Skywater130nm".
 ![laytout](docs/images/laytout.png)
 
 
+### Inductor
+Inductor simulations were executed on [fasthenry2](https://www.fastfieldsolvers.com/fasthenry2.htm).  
+![fasthenry](docs/images/fasthenry.png)
+
+
 ## Tapeout
 This project made by [Tiny Tapeout](https://tinytapeout.com/).
+
 
 ### Price
 - Analog Space: 1x2 = $100
