@@ -22,6 +22,7 @@ This project is "Voltage Controlled LC-Oscillator of 2GHz for Skywater130nm".
 
 ### Inductor
 Inductor simulations were executed on [fasthenry2](https://www.fastfieldsolvers.com/fasthenry2.htm).  
+- ![generator](generator/)
 ![fasthenry](docs/images/fasthenry.png)
 
 
